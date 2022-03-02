@@ -4,10 +4,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>xyz.fluxnetworks</groupId>
-    <artifactId>lpc</artifactId>
-    <version>3.4.1</version>
+    <artifactId>fnc</artifactId>
+    <version>1.2.0</version>
 
-    <name>LPC</name>
+    <name>FNC</name>
     <description>FNC is used to correct formatting issues created by other plugins and configurations.</description>
 
     <properties>
