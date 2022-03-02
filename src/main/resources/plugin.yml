@@ -1,0 +1,13 @@
+name: ${project.name}
+version: ${project.version}
+main: ${main.class}
+description: ${project.description}
+author: wikmor
+depend: [LuckPerms]
+softdepend: [PlaceholderAPI]
+api-version: 1.13
+commands:
+  fnc:
+    description: Reload the configuration.
+    permission: fnc.reload
+    usage: "Usage: /fnc reload"
